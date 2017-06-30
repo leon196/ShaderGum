@@ -42,8 +42,8 @@ right: implementation of Blender3D modeling soft selection trackball.
 left: raw texture.  
 right: same but with absolute digits of positions  
 
-<img src='pics/43.png' height=300px />
-<img src='pics/44.png' height=300px />  
+<img src='pics/43.PNG' height=300px />
+<img src='pics/44.PNG' height=300px />  
 
 little elves moving color pigment to pixel places.  
 (the green flash feels natural but it is because of gif compression)
